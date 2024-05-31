@@ -6,7 +6,7 @@ using System.ComponentModel.Design;
 
 class pet_creation
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Console.WriteLine("choose pets from the given list:");
         Console.WriteLine("1:RABBIT");
